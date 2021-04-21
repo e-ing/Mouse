@@ -1,0 +1,12 @@
+*
+!*.cpp
+!*.c
+!*.h
+!*.H
+!*.C
+!*.CPP
+!.gitignore
+!*.md
+!*.exe
+
+
