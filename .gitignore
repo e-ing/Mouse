@@ -3,13 +3,13 @@
 !/Mouse/*.cpp
 /Debug/*
 !/Debug/*.exe
-!**/*.c
-!**/*.h
-!**/*.H
-!**/*.C
-!**/*.CPP
+!/Mouse/*.c
+!/Mouse/*.h
+!/Mouse/*.H
+!/Mouse/*.C
+!/Mouse/*.CPP
 !**/.gitignore
-!**/*.md
-!**/*.exe
+!/Mouse/*.md
+
 
 
