@@ -1,5 +1,8 @@
-*
+/ipch/*
+/Mouse/*
 !/Mouse/*.cpp
+/Debug/*
+!/Debug/*.exe
 !**/*.c
 !**/*.h
 !**/*.H
